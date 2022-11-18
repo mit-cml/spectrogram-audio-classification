@@ -16,7 +16,7 @@
     "react-dom": "^16.11.0",
     "react-router": "^5.1.2",
     "react-router-dom": "^5.1.2",
-    "react-scripts": "3.1.2",
+    "react-scripts": "5.0.1",
     "react-scroll": "^1.7.14",
     "spectrogram": "0.0.7",
     "spectrogram-fork": "nikhilwbhatia/spectrogram",
